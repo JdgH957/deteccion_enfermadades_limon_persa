@@ -3,9 +3,9 @@
 ![BANNER DEL PROYECTO – 800x300](./banner.jpg)
 
 ## Autores
-Nestor Javier Clavijo Hernández
-Juan Diego Garcia Hernández
-Jesus David Ramirez Celis
+- Nestor Javier Clavijo Hernández
+- Juan Diego Garcia Hernández
+- Jesus David Ramirez Celis
 
 ## Objetivo
 Desarrollar un sistema automatizado que detecte de manera temprana enfermedades en limón persa, facilite decisiones en campo y sea escalable y replicable.
