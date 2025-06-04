@@ -3,7 +3,9 @@
 ![BANNER DEL PROYECTO – 800x300](./banner.jpg)
 
 ## Autores
-Nestor Javier Clavijo Hernández, Juan Diego Garcia Hernández, Jesus David Ramirez Celis
+Nestor Javier Clavijo Hernández
+Juan Diego Garcia Hernández
+Jesus David Ramirez Celis
 
 ## Objetivo
 Desarrollar un sistema automatizado que detecte de manera temprana enfermedades en limón persa, facilite decisiones en campo y sea escalable y replicable.
@@ -18,6 +20,6 @@ yolov8, yolov9, yolov11
 ## Enlaces Relevantes
 
 - 🎞️ **Video de Presentación**: [Enlace](https://www.youtube.com/watch?v=TSZXRuHpod0)
-- 📂 **Archivo de Video**: `video_presentacion.mp4` (por entregar)
+- 📂 **Archivo de Video**: `video_presentacion` (por entregar)
 - 📑 **Diapositivas**: [Ver presentación en Canva](https://www.canva.com/design/DAGi1-RdyLQ/VvPck8zFnK6_cdCoJbvOJw/edit?utm_content=DAGi1-RdyLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 💻 **Código fuente / Notebook**: [Notebook en Google Drive](https://drive.google.com/file/d/1aVqAfGy_knRU6B2fjTeBhCYiXWYX9jym/view?usp=sharing)
